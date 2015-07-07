@@ -3,7 +3,7 @@
 #define PIN 6
 #define N_CELL 2
 
-// test
+// test2
 NS_Rainbow ns_stick = NS_Rainbow(N_CELL,PIN);
 
 const int R_LED = 9;
